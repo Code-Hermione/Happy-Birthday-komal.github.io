@@ -1,0 +1,16 @@
+*{
+    background-color: chocolate;
+}
+#dear{
+    background-color: beige;
+    padding:10px;
+    display: inline-block;
+    font-size: 25px;
+    height: 500px;
+    width:500px;
+    border: 5px solid burlywood;
+    border-radius: 50%;
+    margin-left: 380px;
+    margin-top: 30px;
+    align-content: center;
+}

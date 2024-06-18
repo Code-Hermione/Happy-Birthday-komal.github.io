@@ -1,0 +1,52 @@
+*{
+    background-color: blueviolet;
+}
+#one{
+    width:1200px;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h1{
+    font-family: cursive;
+    color: hotpink;
+    font-size: 80px;
+    text-align: center;
+}
+#name{
+    background-color:rgb(223, 29, 94);
+    font-family:cursive;
+    font-size: 40px;
+    color: hotpink;
+    padding: 5px;
+    border: 10px solid hotpink;
+    display: inline-block;
+    margin-left: 380px;
+}
+#age{
+    background-color:rgb(223, 29, 94);
+    font-family:cursive;
+    font-size: 40px;
+    text-align: center;
+    color: hotpink;
+    padding: 5px;
+    border: 10px solid hotpink;
+    display: inline-block;
+    margin-left: 380px;
+    margin-top: 10px;
+    min-width: 565px;
+}
+#letter{
+    background-color:rgb(223, 29, 94);
+    font-family:cursive;
+    font-size: 40px;
+    text-align: center;
+    color: hotpink;
+    padding: 5px;
+    border: 10px solid hotpink;
+    display: inline-block;
+    margin-left: 380px;
+    margin-top: 10px;
+    min-width: 565px;
+}

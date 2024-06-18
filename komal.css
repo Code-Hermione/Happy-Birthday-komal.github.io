@@ -1,0 +1,16 @@
+*{
+    background: linear-gradient(hotpink, blueviolet);
+    min-height: 100%;
+}
+#balloons{
+    padding-left: 280px;
+    padding-right: 280px;  
+    padding-top: 100px;
+    display:inline-block; 
+}
+h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: gold;
+    text-align: center;
+}

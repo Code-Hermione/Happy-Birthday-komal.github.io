@@ -1,0 +1,12 @@
+*{
+    background: linear-gradient(hotpink, blueviolet);
+    min-height: 100%;
+}
+#seventeen{
+    padding-left: 500px;
+    padding-right: 280px;  
+    padding-top: 100px;
+    padding-bottom: 60px;
+    display:inline-block; 
+    width:400px;
+}
